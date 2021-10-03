@@ -12,7 +12,7 @@
     RootModule = 'Posh-w3w.psm1'
 
     # Version number of this module.
-    ModuleVersion = '1.0.0'
+    ModuleVersion = '1.0.1'
 
     # Supported PSEditions
     CompatiblePSEditions = 'Desktop'
@@ -66,7 +66,7 @@
     # NestedModules = @()
 
     # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-    FunctionsToExport = @('Convert-CoordinatesTo3wa', 'Convert-3waToCoordinates')
+    FunctionsToExport = @('Convert-CoordinatesTo3wa', 'Convert-3waToCoordinates', 'Get-w3wLanguages')
 
     # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
     # CmdletsToExport = @()
@@ -100,7 +100,7 @@
             ProjectUri = 'https://github.com/mc1903/Posh-w3w'
 
             # A URL to an icon representing this module.
-            # IconUri = ''
+            IconUri = 'https://raw.githubusercontent.com/mc1903/Posh-w3w/main/Src/Icons/Posh-w3w.png'
 
             # ReleaseNotes of this module
             # ReleaseNotes = ''
