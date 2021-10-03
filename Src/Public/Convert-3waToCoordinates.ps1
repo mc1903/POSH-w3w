@@ -4,9 +4,9 @@
 	Function Name:		Convert-3waToCoordinates
 	Module Name:		Posh-w3w
 	Created by:			Martin Cooper (@mc1903)
-	Date:				02/10/2021
-	GitHub:				https://github.com/mc1903/POSH-w3w
-	Version:			1.0.0
+	Date:				03/10/2021
+	GitHub:				https://github.com/mc1903/Posh-w3w
+	Version:			1.0.1
 	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 	.Synopsis
@@ -25,7 +25,7 @@
 	The preferred output format (json or geojson).
 
 	.Example
-	# Get the w3w address for Gandalf Corner, London
+	# Get the latitude and longitude for Gandalf Corner, London from its w3w address.
 	Convert-3waToCoordinates -APIKey SP****TM -Words forget.glory.mount
 #>
 Function Convert-3waToCoordinates {
