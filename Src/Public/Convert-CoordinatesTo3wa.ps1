@@ -4,9 +4,9 @@
 	Function Name:		Convert-CoordinatesTo3wa
 	Module Name:		Posh-w3w
 	Created by:			Martin Cooper (@mc1903)
-	Date:				02/10/2021
-	GitHub:				https://github.com/mc1903/POSH-w3w
-	Version:			1.0.0
+	Date:				03/10/2021
+	GitHub:				https://github.com/mc1903/Posh-w3w
+	Version:			1.0.1
 	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 	.Synopsis
